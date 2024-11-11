@@ -10,7 +10,7 @@ JavaScript: Funcionalidades interativas e dinâmicas do site.
 Tailwind: Responisividade e estilização utilizado com foco no design responsivo.
 
 
-----------------------------------------------------
+-----------------------------------------------------
 Integrantes
 
 Higor Miguel Pavim Lopes - 1971780
